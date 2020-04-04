@@ -1,6 +1,6 @@
 Thulasidhar Cherukuru Ramesh Chowdhary
 Welcome to the Jenkins Tutorial
 A lot traffic in the server
-server : aws ec2 instance
-server ip : elastic ip
-server name : jenkins server
+server : AWS EC2 instance
+server ip : Elastic IP
+server name : Jenkins server
